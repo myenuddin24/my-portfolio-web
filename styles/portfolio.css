@@ -166,3 +166,11 @@ font-weight: 700;
     margin-top: 50px;
 
 }
+/* footer style */
+
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 230px;
+    margin-top: 110px;
+}
