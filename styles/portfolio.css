@@ -132,3 +132,37 @@ padding: 30px 150px;
 font-size: 30px;
 font-weight: 700;
 }
+.resume-container{
+    display: flex;
+    gap: 70px;
+}
+
+.resume-itam-title{
+    color:  #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resume-itam-institute{
+    color:  #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.resume-itam-description{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 0px;
+}
+
+.resume-container hr{
+    margin: 30px 25px 30px 0;
+}
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+
+}
